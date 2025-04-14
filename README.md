@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🌱 I’m currently learning to code
+👯 I’m looking to collaborate on coding projects. Tbh I dont really care what it is. I just want to get experience.
+😄 Pronouns: He/Him
+⚡ Fun fact: I used to play Counter Strike alot like alot alot and I train Jiu-Jitsu
 <!--
 **MattB42Y/MattB42Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
